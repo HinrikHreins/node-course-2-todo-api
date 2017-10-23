@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-todo-api.iml
+.idea/workspace.xml
